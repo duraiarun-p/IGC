@@ -1,0 +1,6 @@
+total 12
+drwxrwxr-x  3 arun arun 4096 Dec  8 18:01 ./
+drwxr-xr-x 25 arun arun 4096 Dec  8 18:00 ../
+drwxrwxr-x  7 arun arun 4096 Dec  8 18:00 .git/
+-rw-rw-r--  1 arun arun    0 Dec  8 18:00 Test.txt
+-rw-rw-r--  1 arun arun    0 Dec  8 18:01 Text.txt
